@@ -1,4 +1,4 @@
-[![Ygragon's github stats](https://github-readme-stats.vercel.app/api?username=Ygragon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ygragon's github stats](https://github-readme-stats.vercel.app/api?username=Ygragon&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ygragon&hide=Python)](https://github.com/anuraghazra/github-readme-stats)
 
